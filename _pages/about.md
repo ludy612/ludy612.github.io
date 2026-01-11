@@ -9,7 +9,7 @@ redirect_from:
 
 Hello! I’m **Ludan Yang**, a PhD student in Second Language Studies at Indiana University Bloomington.
 
-My research explores how languages are **acquired, maintained, and sometimes lost** over time. I’m especially interested in:
+My research explores how languages are **acquired, maintained, and sometimes lost** across the lifespan. I’m especially interested in:
 
 - **Foreign language attrition** – how and why foreign languages are "lost" in adult learners.
 - **Sentence processing and the brain** – experimental and EEG work on how learners interpret expressions in new languages.
