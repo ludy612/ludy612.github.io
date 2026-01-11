@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: ''
-date: 2025
+date: 2025-11-01
 venue: 'Journal of Neurolinguistics, 76'
 slidesurl: ''
 paperurl: ''
